@@ -1,5 +1,2 @@
-# Projeto 01
+#Jornada no 7DaysOfCode
 
-Este é o meu primeiro projeto **git** e **github**
-
-- Nova modificação no arquivo Readme.md adicionada
